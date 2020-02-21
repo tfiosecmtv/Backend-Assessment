@@ -1,0 +1,39 @@
+{
+  "Books": [{
+      "title": "Harry Potter",
+      "category": "Book",
+      "categoryIcon": "book"
+    },
+    {
+      "title": "Originals",
+      "category": "Book",
+      "categoryIcon": "book"
+    },
+    {
+      "title": "Essentialism",
+      "category": "Book",
+      "categoryIcon": "book"
+    }
+  ], 
+  "Dishes": [{
+    "title": "Pizza",
+    "category": "Dish",
+    "categoryIcon": "dish",
+    "rating" : 5
+  }, 
+  {
+    "title": "Ice cream",
+    "category": "Dish",
+    "categoryIcon": "dish",
+    "rating": 5
+  }], 
+  "Users": [{
+    "name": "Jess",
+    "category": "User",
+    "categoryIcon": "users"
+  }, {
+    "name": "Andy",
+    "category": "User",
+    "categoryIcon": "users"
+  }]
+}
